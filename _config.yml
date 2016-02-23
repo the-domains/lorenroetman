@@ -1,0 +1,28 @@
+name: LorenRoetman
+favicon: null
+layout_spectrum: 0.07390953972935677
+typography_spectrum: 0.36443629022687674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.17067444091662765
+  lightness: 0.7464047975372523
+  saturation: 0.9951518753077835
+  rhythmicContrast: 0.5421272444073111
+purpose: []
