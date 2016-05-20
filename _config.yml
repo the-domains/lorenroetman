@@ -1,29 +1,41 @@
-name: LorenRoetman
-favicon: null
-layout_spectrum: 0.54907
-typography_spectrum: 0.36443629022687674
 title: Skiffy in Chief
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: LorenRoetman
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0.9333895
+  rhythmicContrast: 0.75
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8125
-  lightness: 0.4375
-  saturation: 0.375
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.5876897
